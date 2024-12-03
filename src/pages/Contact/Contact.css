@@ -1,0 +1,21 @@
+/* Contact Section */
+.contactinfo-item {
+  font-size: 14px !important;
+  color: #787878;
+}
+
+.contactinfo-item > span {
+  color: black;
+  font-weight: 500;
+}
+
+.contactinfo-socials-container {
+  margin-top: 25px;
+}
+
+.contactinfo-social > a > .MuiSvgIcon-root {
+  font-size: 16px !important;
+  margin-right: 10px;
+  color: black;
+}
+/* End of Contact Section */

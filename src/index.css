@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Helvetica, "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #fafafa;
+  background: url("./assets/images/bg.png");
+  overflow-x: hidden;
+  margin-bottom: 30px;
+}
+
+
